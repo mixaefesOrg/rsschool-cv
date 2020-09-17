@@ -17,4 +17,4 @@ Electrotechnical Faculty.
 ### TECHNICAL SKILLS
 Java, Android Studio, SQL, XML, Git, OBS.
 ### INTERESTS 
-Traveling, Sport, Music
+Traveling, Sport, Music.
